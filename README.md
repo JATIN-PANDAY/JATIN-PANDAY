@@ -1,6 +1,5 @@
 
-Hi👋, I'm Jatin Panday
-
+**Hi👋, I'm Jatin Panday**
 <!--
 **JATIN-PANDAY/JATIN-PANDAY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="right">
+  <img src="https://paradox.ba/paradox/wp-content/uploads/2019/10/4paradox-animation-min.gif" width="300"/>
+</div>
 
 **👨🏻‍💻 About Me **
 
