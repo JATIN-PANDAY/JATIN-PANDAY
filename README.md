@@ -31,7 +31,6 @@ Backend Developer and MCA student at **KNIT Sultanpur** with real-world experien
 | Achievement | Details |
 |-------------|---------|
 | 🤖 **Microsoft AI Agents Hackathon** | Participated in Microsoft's AI Agent League Hackathon |
-| 🌐 **Open Source Hackathon 2026** | Selected participant — IIT/NIT supported, powered by Unstop |
 | 🎤 **CEO Challenge** | Participated @ Innovation Incubation & Startup Foundation, KNIT Sultanpur |
 | 📋 **Placement Representative** | Student coordinator for placement activities at KNIT Sultanpur |
 
