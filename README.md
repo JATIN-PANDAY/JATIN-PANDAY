@@ -5,7 +5,6 @@
 **Backend Developer · AI/ML Enthusiast · Open Source Contributor**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/jatin-panday/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white&style=flat)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:jatinpanday136@gmail.com)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=flat)](https://x.com/JatinPanday05)
 
