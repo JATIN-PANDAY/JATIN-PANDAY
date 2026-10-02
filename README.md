@@ -1,14 +1,11 @@
 <div align="center">
-### Jatin Panday
-**Backend Developer · AI/ML Enthusiast · Open Source Contributor**
-
-[![GSSoC 2026 Point Scorer]([https://gssoc.girlscript.org/badges/milestone/rising_star.png](https://gssoc.girlscript.org/badges/milestone/point_scorer.png))](https://github.com/JATIN-PANDAY)
-[![GSSoC 2026 Bounty Hunter]([https://img.shields.io/badge/GSSoC_2026-Bounty_Hunter-orange?style=flat-square](https://gssoc.girlscript.org/badges/milestone/bounty_hunter.png))](https://github.com/JATIN-PANDAY)
-[![GSSoC 2026 First Step]([https://img.shields.io/badge/GSSoC_2026-First_Step-green?style=flat-square](https://gssoc.girlscript.org/badges/milestone/first_steps.png))](https://github.com/JATIN-PANDAY)
-[![GSSoC 2026 Contributor](https://img.shields.io/badge/GSSoC_2026-Contributor-purple?style=flat-square)](https://github.com/JATIN-PANDAY)
-[![GSSoC 2026 Rising Star](https://gssoc.girlscript.org/badges/milestone/rising_star.png)](https://github.com/JATIN-PANDAY)
-</div>
-
+<p align="left">
+  <a href="https://github.com/JATIN-PANDAY"><img src="https://img.shields.io/badge/GSSoC_2026-Point_Scorer-blue?style=flat-square" height="22"></a>
+  <a href="https://github.com/JATIN-PANDAY"><img src="https://img.shields.io/badge/GSSoC_2026-Bounty_Hunter-orange?style=flat-square" height="22"></a>
+  <a href="https://github.com/JATIN-PANDAY"><img src="https://img.shields.io/badge/GSSoC_2026-First_Step-green?style=flat-square" height="22"></a>
+  <a href="https://github.com/JATIN-PANDAY"><img src="https://img.shields.io/badge/GSSoC_2026-Contributor-purple?style=flat-square" height="22"></a>
+  <a href="https://github.com/JATIN-PANDAY"><img src="https://img.shields.io/badge/GSSoC_2026-Rising_Star-yellow?style=flat-square" height="22"></a>
+</p>
 ---
 
 ## 👨‍💻 About Me
