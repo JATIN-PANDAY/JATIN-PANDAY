@@ -3,7 +3,7 @@
 **Backend Developer · AI/ML Enthusiast · Open Source Contributor**
 <p align="left">
   <a href="https://github.com/JATIN-PANDAY">
-    <img src="https://gssoc.girlscript.org/badges/milestone/point_scorer.png" alt="Point Scorer" height="60">
+    <img src="https://gssoc.girlscript.org/badges/milestone/point_scorer.png" alt="Point Scorer" height="90">
   </a>
   <a href="https://github.com/JATIN-PANDAY">
     <img src="https://gssoc.girlscript.org/badges/milestone/bounty_hunter.png" alt="Bounty Hunter" height="90">
