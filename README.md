@@ -1,7 +1,8 @@
 
-### Jatin Panday
-**Backend Developer · AI/ML Enthusiast · Open Source Contributor**
-<p align="left">
+<h1 align="center">Jatin Panday</h1>
+<p align="center"><b>Backend Developer · AI/ML Enthusiast · Open Source Contributor</b></p> 
+
+<p align="center">
   <a href="https://github.com/JATIN-PANDAY">
     <img src="https://gssoc.girlscript.org/badges/milestone/point_scorer.png" alt="Point Scorer" height="90">
   </a>
