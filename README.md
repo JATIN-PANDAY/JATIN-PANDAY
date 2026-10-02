@@ -6,7 +6,7 @@
     <img src="https://gssoc.girlscript.org/badges/milestone/point_scorer.png" alt="Point Scorer" height="60">
   </a>
   <a href="https://github.com/JATIN-PANDAY">
-    <img src="[https://img.shields.io/badge/GSSoC_2026-Bounty_Hunter-orange?style=flat-square](https://gssoc.girlscript.org/badges/milestone/bounty_hunter.png)" alt="Bounty Hunter" height="60">
+    <img src="https://gssoc.girlscript.org/badges/milestone/bounty_hunter.png" alt="Bounty Hunter" height="60">
   </a>
   <a href="https://github.com/JATIN-PANDAY">
     <img src="[https://img.shields.io/badge/GSSoC_2026-First_Step-green?style=flat-square](https://gssoc.girlscript.org/badges/milestone/first_steps.png)" alt="First Step" height="60">
