@@ -1,13 +1,12 @@
 <div align="center">
-
-# Jatin Panday
-
+### Jatin Panday
 **Backend Developer · AI/ML Enthusiast · Open Source Contributor**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/jatin-panday/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:jatinpanday136@gmail.com)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=flat)](https://x.com/JatinPanday05)
-
+[![GSSoC 2026 Point Scorer](https://img.shields.io/badge/GSSoC_2026-Point_Scorer-blue?style=flat-square)](https://github.com/JATIN-PANDAY)
+[![GSSoC 2026 Bounty Hunter](https://img.shields.io/badge/GSSoC_2026-Bounty_Hunter-orange?style=flat-square)](https://github.com/JATIN-PANDAY)
+[![GSSoC 2026 First Step](https://img.shields.io/badge/GSSoC_2026-First_Step-green?style=flat-square)](https://github.com/JATIN-PANDAY)
+[![GSSoC 2026 Contributor](https://img.shields.io/badge/GSSoC_2026-Contributor-purple?style=flat-square)](https://github.com/JATIN-PANDAY)
+[![GSSoC 2026 Rising Star](https://img.shields.io/badge/GSSoC_2026-Rising_Star-yellow?style=flat-square)](https://github.com/JATIN-PANDAY)
 </div>
 
 ---
