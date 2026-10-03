@@ -21,8 +21,7 @@
 </p>  ---
 
 ## 👨‍💻 About Me
-
-Backend Developer and MCA student at **KNIT Sultanpur** with real-world experience building production-grade systems through internships. I specialize in **Python, Django, and REST APIs**, and I'm actively building in the **AI/ML and GenAI** space.
+Backend Developer with real-world experience building production-grade systems through internships. I specialize in Python, Django, and REST APIs, and I'm actively building in the AI/ML and GenAI space.
 
 - 🏢 **Backend Developer Intern** @ Microcode Software LLP *(Jul – Oct 2024)* — Employee Activity Tracker with Django + screenshot capture pipeline
 - 🏢 **Backend Developer Intern** @ EdgeNRoots *(Mar – Jun 2024)* — Hotel Management System APIs with JWT auth and MySQL optimization
