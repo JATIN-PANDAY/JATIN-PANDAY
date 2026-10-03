@@ -4,19 +4,19 @@
 
 <p align="center">
   <a href="https://github.com/JATIN-PANDAY">
-    <img src="https://gssoc.girlscript.org/badges/milestone/point_scorer.png" alt="Point Scorer" height="90">
+    <img src="https://gssoc.girlscript.org/badges/milestone/point_scorer.png" alt="Point Scorer" height="120">
   </a>
   <a href="https://github.com/JATIN-PANDAY">
-    <img src="https://gssoc.girlscript.org/badges/milestone/bounty_hunter.png" alt="Bounty Hunter" height="90">
+    <img src="https://gssoc.girlscript.org/badges/milestone/bounty_hunter.png" alt="Bounty Hunter" height="120">
   </a>
   <a href="https://github.com/JATIN-PANDAY">
-    <img src="https://gssoc.girlscript.org/badges/milestone/first_steps.png" alt="First Step" height="90">
+    <img src="https://gssoc.girlscript.org/badges/milestone/first_steps.png" alt="First Step" height="120">
   </a>
   <a href="https://github.com/JATIN-PANDAY">
-    <img src="https://gssoc.girlscript.org/badges/milestone/role_contributor.png" alt="Contributor" height="90">
+    <img src="https://gssoc.girlscript.org/badges/milestone/role_contributor.png" alt="Contributor" height="120">
   </a>
   <a href="https://github.com/JATIN-PANDAY">
-    <img src="https://gssoc.girlscript.org/badges/milestone/rising_star.png" alt="Rising Star" height="90">
+    <img src="https://gssoc.girlscript.org/badges/milestone/rising_star.png" alt="Rising Star" height="120">
   </a>
 </p>  ---
 
